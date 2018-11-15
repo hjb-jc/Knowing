@@ -1,0 +1,17 @@
+{
+	"index.html": {
+		"resources": [
+			"image/4.jpg",
+			"image/3.jpg",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"setting.html"
+		]
+	},
+	"setting.html": {
+		"refer": [
+			"index.html"
+		]
+	}
+}
